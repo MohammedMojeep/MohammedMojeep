@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=200&section=header&text=MOHAMMED%20MOJEEP&fontSize=50&animation=fadeIn&fontAlignY=35&gradient=120,00B4DB,00172D" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00B4DB&center=true&vCenter=true&width=700&lines=🚀+Architecting+Scalable+Solutions;📱+Expert+Flutter+Development;🌐+Modern+Web+Experiences;💻+Full+Stack+Innovator" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FLUTTER-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
