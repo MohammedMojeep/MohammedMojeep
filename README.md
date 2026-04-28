@@ -58,11 +58,11 @@ I am a professional Software Developer specializing in building integrated digit
   </a>
   &nbsp;
   <a href="https://wa.me/967772067777">
-    <img src="https://img.shields.io/badge/WhatsApp_1-2c3e50?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
+    <img src="https://img.shields.io/badge/772067777-2c3e50?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
   </a>
   &nbsp;
   <a href="https://wa.me/967782807337">
-    <img src="https://img.shields.io/badge/WhatsApp_2-2c3e50?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
+    <img src="https://img.shields.io/badge/782807337-2c3e50?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
   </a>
 </p>
 
