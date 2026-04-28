@@ -1,23 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=200&section=header&text=MOHAMMED%20MOJEEP&fontSize=50&animation=fadeIn&fontAlignY=35&gradient=120,00B4DB,00172D" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=280&section=header&text=MOHAMMED%20MOJEEP&fontSize=75&animation=fadeIn&fontAlignY=38&gradient=120,00B4DB,00172D" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00B4DB&center=true&vCenter=true&width=700&lines=🚀+Architecting+Scalable+Solutions;📱+Expert+Flutter+Development;🌐+Modern+Web+Experiences;💻+Full+Stack+Innovator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00B4DB&center=true&vCenter=true&width=800&lines=🚀+Architecting+Scalable+Solutions;📱+Expert+Flutter+Development;🌐+Modern+Web+Experiences;💻+Full+Stack+Innovator" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FLUTTER-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/LARAVEL-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 نبذة عني | About Me
+### 🚀 About Me
 <div align="justify">
-أنا مطور برمجيات متخصص في بناء الأنظمة الرقمية المتكاملة. أجمع بين قوة <b>Flutter</b> لتطبيقات الهواتف، وكفاءة تقنيات <b>Full Stack</b> للويب. أؤمن بأن الكود العظيم هو الذي يجمع بين المنطق القوي والتجربة البصرية المذهلة.
+I am a professional Software Developer specializing in building integrated digital ecosystems. I combine the power of <b>Flutter</b> for mobile applications with high-efficiency <b>Full Stack</b> web technologies. I believe that great code is the perfect blend of robust logic and stunning visual experience.
 </div>
 
 <br/>
 
 ---
 
-### 🛠️ المهارات التقنية | Technical Stack
+### 🛠️ Technical Stack
 
 <table align="center" width="100%">
   <tr>
@@ -38,7 +45,7 @@
 
 ---
 
-### 📊 إحصائيات الأداء | Performance Stats
+### 📊 Performance Stats
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohammedMojeep&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMojeep&layout=compact&theme=tokyonight&hide_border=true" />
@@ -46,14 +53,22 @@
 
 ---
 
-### 📬 تواصل مباشر | Quick Connect
+### 📬 Quick Connect
 
 <p align="center">
   <a href="mailto:mohammedmojeep7@gmail.com">
-    <img src="https://img.shields.io/badge/772067777-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/967772067777">
+    <img src="https://img.shields.io/badge/WhatsApp_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://wa.me/967782807337">
-    <img src="https://img.shields.io/badge/782807337-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp_2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=120,00B4DB,00172D&height=30&section=footer" width="100%"/>
 </p>
