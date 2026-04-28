@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=121212&height=200&section=header&text=MOHAMMED%20MOJEEP&fontSize=55&animation=fadeIn&fontColor=C5A059&fontAlignY=45&gradient=120,1a1a1a,0a0a0a" width="85%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=MOHAMMED%20MOJEEP&fontSize=55&animation=fadeIn&fontColor=e0e0e0&fontAlignY=45&gradient=135,2c3e50,4a627a" width="85%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=C5A059&center=true&vCenter=true&width=600&lines=🚀+Architecting+Scalable+Solutions;📱+Expert+Flutter+Development;🌐+Modern+Web+Experiences;💻+Full+Stack+Innovator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=26&duration=3500&pause=1000&color=95a5a6&center=true&vCenter=true&width=600&lines=🚀+Architecting+Scalable+Solutions;📱+Expert+Flutter+Development;🌐+Modern+Web+Experiences;💻+Full+Stack+Innovator" />
 </p>
 
 ---
@@ -40,8 +40,8 @@ I am a professional Software Developer specializing in building integrated digit
 
 ### 📊 Performance Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammedMojeep&show_icons=true&theme=tokyonight&icon_color=C5A059&text_color=C5A059&title_color=C5A059&hide_border=true&bg_color=121212" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMojeep&layout=compact&theme=tokyonight&text_color=C5A059&title_color=C5A059&hide_border=true&bg_color=121212" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammedMojeep&show_icons=true&theme=distinguished&icon_color=95a5a6&text_color=bdc3c7&title_color=ecf0f1&hide_border=true&bg_color=2c3e50" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMojeep&layout=compact&theme=distinguished&text_color=bdc3c7&title_color=ecf0f1&hide_border=true&bg_color=2c3e50" />
 </p>
 
 ---
@@ -50,18 +50,18 @@ I am a professional Software Developer specializing in building integrated digit
 
 <p align="center">
   <a href="mailto:mohammedmojeep7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-2c3e50?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://wa.me/967772067777">
-    <img src="https://img.shields.io/badge/WhatsApp_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp_1-2c3e50?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
   </a>
   &nbsp;
   <a href="https://wa.me/967782807337">
-    <img src="https://img.shields.io/badge/WhatsApp_2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp_2-2c3e50?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=121212&height=30&section=footer&gradient=120,1a1a1a,0a0a0a" width="85%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=30&section=footer&gradient=135,2c3e50,4a627a" width="85%"/>
 </p>
