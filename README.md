@@ -31,10 +31,10 @@ I am a professional Software Developer specializing in building integrated digit
       <b>📱 Mobile & Logic</b><br>
       <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,dotnet" />
     </td>
-    <td align="center" width="33%">
-      <b>🗄️ Infrastructure</b><br>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,git,github" />
-    </td>
+   <td align="center" width="33%">
+  <b>🗄️ Infrastructure</b><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,firebase,sqlite,git,github" />
+</td>
   </tr>
 </table>
 
