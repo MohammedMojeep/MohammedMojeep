@@ -1,16 +1,68 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MOHAMMED%20MOJEEP&fontSize=50&animation=fadeIn&fontAlignY=35&gradient=120,00B4DB,00172D" />
+</p>
 
-<!--
-**MohammedMojeep/MohammedMojeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00B4DB&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Expert+Flutter+Developer;Architecting+Digital+Solutions" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 نبذة عني | About Me
+<div align="justify">
+أنا مطور تطبيقات ويب وهواتف ذكية متكامل (Full Stack)، أسعى دائماً لتحويل الأفكار المعقدة إلى حلول رقمية بسيطة، سريعة، وذات أداء عالٍ. أركز على كتابة كود نظيف وتصميم واجهات مستخدم (UI/UX) عصرية.
+</div>
+
+<br/>
+
+> 💡 **أؤمن بأن البرمجة ليست مجرد كتابة كود، بل هي فن حل المشكلات وبناء المستقبل.**
+
+---
+
+### 🛠️ المهارات التقنية | Technical Stack
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <b>🎨 Frontend</b><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind" />
+    </td>
+    <td align="center" width="33%">
+      <b>📱 Mobile & Backend</b><br>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,dotnet" />
+    </td>
+    <td align="center" width="33%">
+      <b>🗄️ Databases & Tools</b><br>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,git,github" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌟 نقاط القوة | Core Strengths
+
+* ⚡ **تطوير شامل:** خبرة في الربط الاحترافي بين الواجهات الأمامية والخلفية.
+* 🎯 **Flutter Expert:** بناء تطبيقات موبايل تعمل على Android & iOS بكفاءة عالية.
+* 🧠 **حلول ذكية:** تصميم قواعد بيانات قوية وقابلة للتوسع (Scalable).
+* 🎨 **واجهات جذابة:** اهتمام دقيق بتجربة المستخدم وتناسق الألوان.
+
+---
+
+### 📬 تواصل معي | Let's Connect
+
+<p align="left">
+  <a href="mailto:mohammedmojeep7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/967772067777">
+    <img src="https://img.shields.io/badge/WhatsApp_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://wa.me/967782807337">
+    <img src="https://img.shields.io/badge/WhatsApp_2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m-mojeep/m-mojeep/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
