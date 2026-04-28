@@ -53,23 +53,6 @@ I am a professional Software Developer specializing in building integrated digit
 
 ### 📬 Let's Connect
 
-<p align="center">
-
-  <a href="mailto:mohammedmojeep7@gmail.com">
-
-    <img src="https://img.shields.io/badge/772067777-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-  </a>
-
-  &nbsp;
-
-  <a href="https://wa.me/967782807337">
-
-    <img src="https://img.shields.io/badge/782807337-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-  </a>
-
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=30&section=footer&gradient=135,1a2a6c,2c3e50" width="85%"/>
