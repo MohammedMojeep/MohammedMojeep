@@ -33,7 +33,7 @@ I am a professional Software Developer specializing in building integrated digit
     </td>
  <td align="center" width="33%">
   <b>🗄️ Infrastructure</b><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,firebase,sqlite,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,firebase,sqlite,git,github" />
 </td>
   </tr>
 </table>
