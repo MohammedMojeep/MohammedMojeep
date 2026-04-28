@@ -40,15 +40,6 @@
 
 ---
 
-### 🌟 نقاط القوة | Core Strengths
-
-* ⚡ **تطوير شامل:** خبرة في الربط الاحترافي بين الواجهات الأمامية والخلفية.
-* 🎯 **Flutter Expert:** بناء تطبيقات موبايل تعمل على Android & iOS بكفاءة عالية.
-* 🧠 **حلول ذكية:** تصميم قواعد بيانات قوية وقابلة للتوسع (Scalable).
-* 🎨 **واجهات جذابة:** اهتمام دقيق بتجربة المستخدم وتناسق الألوان.
-
----
-
 ### 📬 تواصل معي | Let's Connect
 
 <p align="left">
@@ -56,13 +47,17 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/967772067777">
-    <img src="https://img.shields.io/badge/WhatsApp_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/772067777-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://wa.me/967782807337">
-    <img src="https://img.shields.io/badge/WhatsApp_2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/782807337-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
+---
+
+### 📊 إحصائيات البروفايل | Profile Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/m-mojeep/m-mojeep/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammedMojeep&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMojeep&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
