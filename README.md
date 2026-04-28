@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=MOHAMMED%20MOJEEP&fontSize=55&animation=fadeIn&fontColor=fff&fontAlignY=45&gradient=120,00B4DB,00172D" width="85%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=MOHAMMED%20MOJEEP&fontSize=55&animation=fadeIn&fontColor=D4AF37&fontAlignY=45&gradient=120,000000,1a1a1a" width="85%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00B4DB&center=true&vCenter=true&width=600&lines=🚀+Architecting+Scalable+Solutions;📱+Expert+Flutter+Development;🌐+Modern+Web+Experiences;💻+Full+Stack+Innovator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=🚀+Architecting+Scalable+Solutions;📱+Expert+Flutter+Development;🌐+Modern+Web+Experiences;💻+Full+Stack+Innovator" />
 </p>
 
 ---
@@ -40,8 +40,8 @@ I am a professional Software Developer specializing in building integrated digit
 
 ### 📊 Performance Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammedMojeep&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMojeep&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammedMojeep&show_icons=true&theme=vue-dark&icon_color=D4AF37&text_color=D4AF37&title_color=D4AF37&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMojeep&layout=compact&theme=vue-dark&text_color=D4AF37&title_color=D4AF37&hide_border=true" />
 </p>
 
 ---
@@ -63,5 +63,5 @@ I am a professional Software Developer specializing in building integrated digit
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=footer&gradient=120,00B4DB,00172D" width="85%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=30&section=footer&gradient=120,000000,1a1a1a" width="85%"/>
 </p>
