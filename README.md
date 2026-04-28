@@ -54,17 +54,21 @@ I am a professional Software Developer specializing in building integrated digit
 ### 📬 Let's Connect
 
 <p align="center">
+
   <a href="mailto:mohammedmojeep7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1a2a6c?style=for-the-badge&logo=gmail&logoColor=white" />
+
+    <img src="https://img.shields.io/badge/772067777-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
   </a>
+
   &nbsp;
-  <a href="https://wa.me/967772067777">
-    <img src="https://img.shields.io/badge/WhatsApp_1-1a2a6c?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
-  </a>
-  &nbsp;
+
   <a href="https://wa.me/967782807337">
-    <img src="https://img.shields.io/badge/WhatsApp_2-1a2a6c?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
+
+    <img src="https://img.shields.io/badge/782807337-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
   </a>
+
 </p>
 
 <p align="center">
