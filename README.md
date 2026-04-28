@@ -3,13 +3,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FLUTTER-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/LARAVEL-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
 ---
 
 ### 🚀 نبذة عني | About Me
@@ -60,7 +53,4 @@
   <a href="https://wa.me/967782807337">
     <img src="https://img.shields.io/badge/782807337-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=180&section=header&text=&fontSize=40&animation=fadeIn&fontAlignY=25&gradient=100,00B4DB,00172D" />
 </p>
