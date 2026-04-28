@@ -30,9 +30,10 @@ I am a professional Software Developer specializing in building integrated digit
       <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,dotnet,nodejs" />
     </td>
     <td align="center" width="33%">
-      <b>🗄️ Infrastructure</b><br>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,firebase,sqlite,git,github" />
-    </td>
+  <b>🗄️ Infrastructure</b><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,firebase,sqlite,git,github" /><br>
+  <img src="https://skillicons.dev/icons?i=mssql" />
+</td>
   </tr>
 </table>
 
