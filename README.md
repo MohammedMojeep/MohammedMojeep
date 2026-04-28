@@ -25,15 +25,15 @@ I am a professional Software Developer specializing in building integrated digit
   <tr>
     <td align="center" width="33%">
       <b>🎨 Frontend Web</b><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,vue" />
     </td>
     <td align="center" width="33%">
       <b>📱 Mobile & Logic</b><br>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,dotnet,nodejs" />
+      <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,dotnet" />
     </td>
     <td align="center" width="33%">
       <b>🗄️ Infrastructure</b><br>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,git,github,docker" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,git,github" />
     </td>
   </tr>
 </table>
