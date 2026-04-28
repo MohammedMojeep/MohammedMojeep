@@ -38,7 +38,7 @@ I am a professional Software Developer specializing in building integrated digit
 
 ---
 
-### 📊 إحصائيات الأداء | Performance Stats
+### 📊 | Performance Stats
 
 <p align="center">
 
