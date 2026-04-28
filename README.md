@@ -64,3 +64,6 @@
     <img src="https://img.shields.io/badge/782807337-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=200&section=header&text=&fontSize=50&animation=fadeIn&fontAlignY=35&gradient=120,00B4DB,00172D" />
+</p>
