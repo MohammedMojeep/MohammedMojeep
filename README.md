@@ -56,9 +56,7 @@
     </td>
 <td align="center" width="33%">
   <b>🗄️ Infrastructure</b><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" title="SQL Server" />
-  <img src="https://skillicons.dev/icons?i=firebase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,firebase,sqlite" />
 </td>
   </tr>
 </table>
