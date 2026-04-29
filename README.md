@@ -56,11 +56,9 @@
     </td>
 <td align="center" width="33%">
   <b>🗄️ Infrastructure</b><br><br>
-  <img src="https://skillicons.dev/icons?i=mysql" /><br><br>
-  <img src="https://skillicons.dev/icons?i=postgres" /><br><br>
-  <img src="https://img.shields.io/badge/-SQL%20Server-1a1a1a?style=flat&logo=microsoft-sql-server&logoColor=CC2927&height=48" height="40" style="border-radius: 10px;" /><br><br>
-  <img src="https://skillicons.dev/icons?i=firebase" /><br><br>
-  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/-SQL%20Server-1a1a1a?style=flat&logo=microsoft-sql-server&logoColor=CC2927&height=48" height="48" style="vertical-align: middle; margin: 0 2px; border-radius: 10px;" />
+  <img src="https://skillicons.dev/icons?i=firebase,sqlite" style="vertical-align: middle;" />
 </td>
   </tr>
 </table>
