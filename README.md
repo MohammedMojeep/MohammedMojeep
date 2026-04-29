@@ -57,7 +57,7 @@
 <td align="center" width="33%">
   <b>🗄️ Infrastructure</b><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5730e442-80a5-4842-be9d-f5700f681d45" width="48" height="48" alt="SQL Server" style="vertical-align: middle; margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" title="SQL Server" />
   <img src="https://skillicons.dev/icons?i=firebase,sqlite,git,github" />
 </td>
   </tr>
