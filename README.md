@@ -57,7 +57,7 @@
 <td align="center" width="33%">
   <b>🗄️ Infrastructure</b><br><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" height="40" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/-1a1a1a?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927" height="38" style="vertical-align: middle; margin: 0 2px; border-radius: 8px;" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="35" width="35" title="SQL Server" style="vertical-align: middle; background-color: #1a1a1a; padding: 5px; border-radius: 8px; margin: 0 2px;" />
   <img src="https://skillicons.dev/icons?i=firebase,sqlite" height="40" style="vertical-align: middle;" />
 </td>
   </tr>
