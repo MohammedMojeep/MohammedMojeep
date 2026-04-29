@@ -9,13 +9,6 @@
 
 ---
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&color=087E8B&center=true&vCenter=true&width=300&lines=🚀+About+Me" />
-</p>
----
-
 ### 🚀 About Me
 
 <div align="center">
