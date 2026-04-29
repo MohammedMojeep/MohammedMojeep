@@ -33,14 +33,6 @@
 
 ---
 
-<br/>
-
----
-
-<br/>
-
----
-
 ### 🛠️ Technical Stack
 
 <table align="center" width="100%">
