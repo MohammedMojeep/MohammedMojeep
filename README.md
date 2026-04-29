@@ -92,7 +92,7 @@
   </a>
   &nbsp;
   <a href="https://wa.me/967 772062777">
-    <img src="https://img.shields.io/badge/772067777-1a2a6c?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
+    <img src="https://img.shields.io/badge/772062777-1a2a6c?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
   </a>
   &nbsp;
   <a href="https://wa.me/967 782807337">
