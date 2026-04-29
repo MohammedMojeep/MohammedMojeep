@@ -100,8 +100,3 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=087E8B&height=50&section=footer&gradient=120,087E8B,1a1a1a" width="100%"/>
-</p>
