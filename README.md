@@ -17,21 +17,32 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=087E8B&center=true&vCenter=true&width=600&lines=Software+Developer;Flutter+Specialist;Full+Stack+Innovator" />
 </p>
 
+
+---
+
+### 🚀 About Me
+
 <div align="center">
-  <table width="90%">
+  <table width="95%">
     <tr>
-      <td bgcolor="#1a1a1a" style="border-radius: 10px; padding: 20px;">
+      <td bgcolor="#1a1a1a" style="border-radius: 10px; padding: 25px;">
+        <p align="center">
+          <b>Professional Full Stack Developer | Web & Mobile Solutions</b>
+        </p>
         <p align="justify">
-          I am a professional <b>Software Developer</b> specializing in building integrated digital ecosystems. I combine the power of <b>Flutter</b> for mobile applications with high-efficiency <b>Full Stack</b> web technologies. I believe that great code is the perfect blend of robust logic and a stunning visual experience.
+          I am a dedicated <b>Full Stack Developer</b> with a passion for architecting seamless digital experiences. I specialize in building high-performance <b>Mobile Apps</b> and scalable <b>Web Applications</b> from scratch. By bridging the gap between robust backend logic and elegant frontend design, I transform complex ideas into powerful, user-centric products.
         </p>
         <p align="center">
-          <code><b>Core Expertise:</b> Mobile Development • Web Systems • UI/UX Logic</code>
+          <code><b>Full Stack Web</b></code> • <code><b>Full Stack Mobile</b></code> • <code><b>End-to-End Solutions</b></code>
         </p>
       </td>
     </tr>
   </table>
 </div>
 
+<br/>
+
+---
 <br/>
 
 ---
