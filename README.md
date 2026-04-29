@@ -34,13 +34,6 @@
 <br/>
 
 ---
-<br/>
-
----
-
-<br/>
-
----
 
 ### 🛠️ Technical Stack
 
