@@ -23,8 +23,8 @@
         <p align="center">
           <b>Professional Full Stack Developer | Web & Mobile Solutions</b>
         </p>
-        <p align="justify">
-   I am a **Full Stack Developer** specializing in building high-performance **Mobile Apps** and scalable **Web Applications** from scratch. I bridge the gap between robust backend logic and elegant frontend design to deliver powerful, user-centric solutions.
+        <p align="center">
+          I am a <b>Full Stack Developer</b> specializing in building high-performance <b>Mobile Apps</b> and scalable <b>Web Applications</b> from scratch. I bridge the gap between robust backend logic and elegant frontend design to deliver powerful, user-centric solutions.
         </p>
         <p align="center">
           <code><b>Full Stack Web</b></code> • <code><b>Full Stack Mobile</b></code> • <code><b>End-to-End Solutions</b></code>
