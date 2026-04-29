@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=087E8B&height=200&section=header&text=MOHAMMED%20MOJEEP&fontSize=50&fontAlignY=35&fontColor=000000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=087E8B&height=200&section=header&text=MOHAMMED%20MOJEEP&fontSize=50&fontAlignY=35&fontColor=C5F5F0" width="100%" />
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=26&duration=3500&pause=1000&color=95a5a6&center=true&vCenter=true&width=600&lines=🚀+Architecting+Scalable+Solutions;📱+Expert+Flutter+Development;🌐+Modern+Web+Experiences;💻+Full+Stack+Innovator" />
