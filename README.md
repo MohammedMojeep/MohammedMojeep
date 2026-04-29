@@ -58,7 +58,7 @@
   <b>🗄️ Infrastructure</b><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" title="SQL Server" />
-  <img src="https://skillicons.dev/icons?i=firebase,sqlite,git,github" />
+  <img src="https://skillicons.dev/icons?i=firebase,sqlite" />
 </td>
   </tr>
 </table>
