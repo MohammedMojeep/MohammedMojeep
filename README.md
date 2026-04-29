@@ -1,65 +1,49 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=MOHAMMED%20MOJEEP&fontSize=55&animation=fadeIn&fontColor=e0e0e0&fontAlignY=45&gradient=135,1a2a6c,2c3e50" width="85%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=26&duration=3500&pause=1000&color=95a5a6&center=true&vCenter=true&width=600&lines=🚀+Architecting+Scalable+Solutions;📱+Expert+Flutter+Development;🌐+Modern+Web+Experiences;💻+Full+Stack+Innovator" />
-</p>
+# MOHAMMED MOJEEP
+
+![Header](https://capsule-render.vercel.app/render?type=waving&color=008080&height=200&section=header&text=MOHAMMED%20MOJEEP&fontSize=50&animation=fadeIn&fontAlignY=40)
+
+</div>
 
 ---
 
 ### 🚀 About Me
-<div align="justify">
-I am a professional Software Developer specializing in building integrated digital ecosystems. I combine the power of <b>Flutter</b> for mobile applications with high-efficiency <b>Full Stack</b> web technologies. I believe that great code is the perfect blend of robust logic and stunning visual experience.
-</div>
-
-<br/>
+I am a professional **Software Developer** specializing in building integrated digital ecosystems. I combine the power of **Flutter** for mobile applications with high-efficiency **Full Stack** web technologies. I believe that great code is the perfect blend of robust logic and stunning visual experience.
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠 Technical Stack
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <b>🎨 Frontend Web</b><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap" />
-    </td>
-    <td align="center" width="33%">
-      <b>📱 Mobile & Logic</b><br>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,dotnet,nodejs" />
-    </td>
-<td align="center" width="33%">
-  <b>🗄️ Infrastructure</b><br> 
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,firebase,sqlite,git,github" /> </td>
-</table>
+| 👨‍💻 Frontend Web | 📱 Mobile & Logic | ☁️ Infrastructure |
+| :--- | :--- | :--- |
+| <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> | <img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/dart.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/color/48/000000/net-framework.png"/> | <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png"/> |
 
 ---
 
 ### 📊 Performance Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammedMojeep&show_icons=true&theme=tokyonight&icon_color=3498db&text_color=95a5a6&title_color=e0e0e0&hide_border=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMojeep&layout=compact&theme=tokyonight&text_color=95a5a6&title_color=e0e0e0&hide_border=true" />
+
+<p align="left">
+<a href="https://github.com/MohammedMojeep">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedMojeep&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMojeep&layout=compact&theme=tokyonight" />
+</a>
 </p>
 
 ---
 
-### 📬 Let's Connect
+### 📩 Let's Connect
 
 <p align="center">
-  <a href="mailto:mohammedmojeep7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1a2a6c?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/967772067777">
-    <img src="https://img.shields.io/badge/772067777-1a2a6c?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/967782807337">
-    <img src="https://img.shields.io/badge/782807337-1a2a6c?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
-  </a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</a>
+<a href="https://wa.me/967772067777">
+  <img src="https://img.shields.io/badge/772067777-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://wa.me/967782807337">
+  <img src="https://img.shields.io/badge/782807337-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=30&section=footer&gradient=135,1a2a6c,2c3e50" width="85%"/>
-</p>
+<img src="https://capsule-render.vercel.app/render?type=rect&color=FF7F50&height=30&section=footer" width="100%"/>
