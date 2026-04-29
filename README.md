@@ -8,8 +8,13 @@
 </p>
 
 ---
+---
+
+<div align="center">
 
 ### 🚀 About Me
+
+</div>
 
 <div align="center">
   <table width="95%">
@@ -28,6 +33,10 @@
     </tr>
   </table>
 </div>
+
+<br/>
+
+--->
 
 <br/>
 
