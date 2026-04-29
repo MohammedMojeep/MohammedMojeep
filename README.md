@@ -40,8 +40,8 @@ I am a professional Software Developer specializing in building integrated digit
 
 ### 📊 Performance Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammedMojeep&show_icons=true&theme=distinguished&icon_color=95a5a6&text_color=bdc3c7&title_color=ecf0f1&hide_border=true&bg_color=1a2a6c" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMojeep&layout=compact&theme=distinguished&text_color=bdc3c7&title_color=ecf0f1&hide_border=true&bg_color=1a2a6c" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammedMojeep&show_icons=true&theme=tokyonight&icon_color=3498db&text_color=95a5a6&title_color=e0e0e0&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMojeep&layout=compact&theme=tokyonight&text_color=95a5a6&title_color=e0e0e0&hide_border=true" />
 </p>
 
 ---
