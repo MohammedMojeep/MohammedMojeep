@@ -13,15 +13,6 @@
 
 ### 🚀 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=087E8B&center=true&vCenter=true&width=600&lines=Software+Developer;Flutter+Specialist;Full+Stack+Innovator" />
-</p>
-
-
----
-
-### 🚀 About Me
-
 <div align="center">
   <table width="95%">
     <tr>
