@@ -36,10 +36,6 @@
 
 <br/>
 
-
-<br/>
-
----
 ---
 
 <div align="center">
@@ -80,9 +76,12 @@
 
 ---
 
----
+
+<div align="center">
 
 ### 📬 Let's Connect
+
+</div>
 
 <p align="center">
   <a href="mailto:mohammedmojeep7@gmail.com">
@@ -97,6 +96,8 @@
     <img src="https://img.shields.io/badge/782807337-1a2a6c?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
   </a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=087E8B&height=50&section=footer&gradient=120,087E8B,1a1a1a" width="100%"/>
