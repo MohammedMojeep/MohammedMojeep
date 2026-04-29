@@ -64,5 +64,5 @@ I am a professional Software Developer specializing in building integrated digit
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=30&section=footer&gradient=135,1a2a6c,2c3e50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=087E8B&height=50&section=footer" width="100%"/>
 </p>
