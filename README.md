@@ -70,8 +70,8 @@
 ### 📊 Performance Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammedMojeep&show_icons=true&theme=tokyonight&icon_color=3498db&text_color=95a5a6&title_color=e0e0e0&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMojeep&theme=tokyonight&hide_border=true&layout=compact" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammedMojeep&show_icons=true&theme=tokyonight&icon_color=3498db&text_color=95a5a6&title_color=e0e0e0&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMojeep&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 <div align="center">
