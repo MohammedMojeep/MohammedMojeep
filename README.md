@@ -65,16 +65,6 @@
 </table>
 
 ---
-
-<div align="center">
-### 📊 Performance Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MohammedMojeep&show_icons=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMojeep)
-
-### 📬 Let's Connect
-
 </div>
 
 <p align="center">
