@@ -69,11 +69,12 @@
 <div align="center">
 ### 📊 Performance Stats
 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammedMojeep&show_icons=true&theme=tokyonight&icon_color=3498db&text_color=95a5a6&title_color=e0e0e0&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMojeep&theme=tokyonight&hide_border=true&layout=compact" />
+<p align="left">
+<a href="https://github.com/MohammedMojeep">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedMojeep&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMojeep&layout=compact&theme=tokyonight" />
+</a>
 </p>
-
 <div align="center">
 
 ### 📬 Let's Connect
